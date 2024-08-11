@@ -1,0 +1,44 @@
+html {
+  background-color: #fce4ec; /* Light pink background */
+}
+
+#root {
+  max-width: 1280px;
+}
+
+/* Scrollbar container */
+::-webkit-scrollbar {
+  width: 12px; /* Adjust the width of the scrollbar */
+}
+
+/* Scrollbar thumb */
+::-webkit-scrollbar-thumb {
+  background-color: #f06292; /* Medium pink for the thumb */
+  border-radius: 6px; /* Rounded corners for the thumb */
+  border: 3px solid #fce4ec; /* Creates a border around the thumb with the main background color */
+}
+
+/* Scrollbar track */
+::-webkit-scrollbar-track {
+  background: #f8bbd0; /* Slightly lighter pink for the track */
+  border-radius: 6px; /* Consistency in rounded corners */
+}
+
+/* Scrollbar corner */
+::-webkit-scrollbar-corner {
+  background-color: #fce4ec; /* Matches the track's background color */
+}
+
+::-webkit-scrollbar-button {
+  display: none;
+}
+
+.user-chat {
+  max-width: 75%;
+  color: #ad1457; /* Dark pink text color for user chat */
+}
+
+.ai-reply {
+  max-width: 75%;
+  color: #c2185b; /* Slightly lighter pink text color for AI reply */
+}
