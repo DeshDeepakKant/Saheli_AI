@@ -1,4 +1,5 @@
-# Chat with GEMINI AI
+# Chat with Saheli AI
+
 
 ## Overview
 
@@ -53,4 +54,3 @@ Contributions are welcome! If you have suggestions for improvements or bug fixes
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-# Saheli-AI-
