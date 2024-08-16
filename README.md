@@ -47,6 +47,11 @@ To get the project up and running on your local machine, follow these steps:
 
 Simply type your message in the input box and press enter or click the send button. The AI will process your input and generate a response, which will appear in the chat window.
 
+![](https://github.com/DeshDeepakKant/Saheli_AI/blob/master/Screenshot%20from%202024-08-17%2000-08-06.png)
+
+
+
+
 ## Contributing
 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, please open an **issue** or submit a **pull request**.
